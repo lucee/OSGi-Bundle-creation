@@ -1,6 +1,7 @@
 
 <cfset versions={
 
+//////////////////////////// CUSTOMIZE BEGINNING /////////////////////////////
 /**
 * Example how a record should look like, only set criteria you need to customize,
 * If not set Lucee will figure them out, for example if "exportPackage" is not set, Lucee will simply add all packages in the jar.
@@ -21,6 +22,7 @@
 	,ignoreExistingManifest:false
 }
 
+//////////////////////////// CUSTOMIZE END /////////////////////////////
 }>
 
 <!--- jars to ignore, that are used to load other jars needed. --->

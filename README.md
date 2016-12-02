@@ -2,6 +2,7 @@
 # OSGi Bundle creation
 This repo provides you with CFML code that allows to build OSGi bundles.
 There are 2 ways to do it. Convert a regular local physical jar to an OSGi bundle or create a maven Project that extends an existing maven project that defines a regular jar.
+Look for "//////////////////////////// CUSTOMIZE BEGINNING /////////////////////////////" in both script to set your data.
 
 
 ## Regular Jar to OSGi Bundle
