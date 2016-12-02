@@ -18,4 +18,4 @@ This is an example that was created that way https://github.com/lucee/osgi-bundl
 
 In addition you get in the browser output information, how you can use that bundle in your enviroment as a Maven dependency or as an OSGi bundle.
 
-This is the **prevered** way to do it, because it is easy to improve and repeat to anybody in the world, as soon that github repo containg your maven script is published, everybody can improve it, update for a new version of the source jar for example.
+This is the **prevered** way to do it, because it is easy to improve and repeat to anybody in the world, as soon as the github repo that contains your maven script is published, everybody can improve it, for example update it to a new version of the source jar.
